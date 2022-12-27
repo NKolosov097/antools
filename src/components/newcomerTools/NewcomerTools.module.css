@@ -1,0 +1,53 @@
+.newcomerTools__container {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-top: 170px;
+    position: relative;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.exploreMore__container {
+    width: 50%;
+    left: 0;
+    text-align: left;
+}
+
+.exploreMore {
+    width: 400px;
+}
+
+.eploreMore__title {
+    font-size: 45px;
+}
+
+.exploreMore__content {
+    margin-top: 30px;
+    font-size: 18px;
+    opacity: 60%;
+}
+
+.exploreMore__button {
+    margin-top: 60px;
+    width: 150px;
+    padding: 15px;
+    border-radius: 8px;
+    color: #FDF5FF;
+    background: #FF6E30;
+}
+
+.tools__container {
+    width: 65%;
+    right: 0;
+    text-align: right;
+} 
+
+.newcomerTools {
+    width: 100%;
+    margin-top: -50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+

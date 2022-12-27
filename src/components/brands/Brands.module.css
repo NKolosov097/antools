@@ -1,0 +1,31 @@
+.brands {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.brands__container {
+    width: 100%;
+    padding: 30px 50px;
+    border-radius: 15px;
+    text-align: center;
+    background: #2C353D;
+    opacity: 0.8;
+}
+
+.title {
+    font-size: 20px;
+    color: #fff;
+    font-weight: normal;
+    margin-bottom: 35px;
+    margin-top: 10px;
+}
+
+.companies {
+    margin-bottom: 15px;
+}
+
+.company {
+    opacity: 1;
+    margin: 30px;
+}
